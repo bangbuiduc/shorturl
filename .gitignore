@@ -1,0 +1,6 @@
+.htaccess
+.idea/
+*.log
+*.sql
+*.sqlite
+*.zip
